@@ -1,0 +1,80 @@
+
+h1{
+    color: black;
+font-size: 50px;
+
+}
+.ggg{
+    width: 90%;
+    margin-left: 10%;    
+}
+img{
+    width: 90%;
+    margin-right: 10%;
+}
+.play{
+    width: 40%;
+    float: left;
+    text-align: justify;
+    display: inline-block;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.five{
+    width: 40%;
+    float: left;
+    text-align: justify;
+    display: inline-block;
+    margin-left: 5%;
+    padding: 2%;
+    box-shadow: 10px 10px 40px gray;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.nine{
+    
+    padding-bottom: 50px;
+    height: 500px;
+    background-image: url("portfolio/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position:
+}
+.jaber{
+background-image: url("portfolio/dream-bg.png");
+height:500px;
+background-repeat: no-repeat;
+background-position: right;
+padding-bottom: 60px;
+
+}
+.fatal{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(208, 238, 35),  black);
+    padding: 9px 20px;
+    font-weight: 700;
+    border-radius: 10px;
+    color:white;
+}
+.hamim{
+    padding-bottom: 15;
+    background-image: url("portfolio/top-banner.png");
+    height: 500px;
+    background-repeat: no-repeat;
+}
+#four{
+    border-left:7px solid;
+    border-image:linear-gradient(red,blue);
+    border-image-slice: 1;
+}
+#six{
+    border-left:7px solid;
+    border-image:linear-gradient(rgb(11, 225, 236),rgb(133, 37, 93));
+    border-image-slice: 1;
+}
+body{
+    margin: 0%;
+}
+fotter{
+    text-align: center;
+}
